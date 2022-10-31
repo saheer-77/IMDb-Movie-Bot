@@ -50,7 +50,7 @@ You can deploy this bot anywhere.
 <details><summary>Deploy to Heroku</summary>
 <p>
 <br>
-<a href="https://telegram.dog/XTZ_HerokuBot?start=am9zcHJvamVjdHMvdGdtb3ZpZWJvdCBtYXN0ZXI">
+<a href="https://telegram.dog/XTZ_HerokuBot?start=https://github.com/saheer-77/IMDb-Movie-Bot">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 
 <a href="https://youtu.be/DFJxT7nUh10"><img src="https://img.shields.io/badge/How%20to%20Deploy%20on%20Heroku-blue.svg?logo=Youtube"></a>
@@ -79,7 +79,7 @@ You can deploy this bot anywhere.
 <details><summary>Deploy to VPS</summary>
 <p>
 <pre>
-git clone https://github.com/josprojects/tgmoviebot
+git clone https://github.com/saheer-77/IMDb-Movie-Bot
 # Install Packages
 pip3 install -r requirements.txt
 Edit info.py with variables as given below then run bot
